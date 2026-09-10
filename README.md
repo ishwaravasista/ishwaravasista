@@ -7,7 +7,7 @@ Hello! My name's Ishwara (or Ish for short), and I'm a high-speed problem solver
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ishwara.vasista@gmail.com" title="Email Ishwara Vasista">
-    <img width="22" src="email_image.png" alt="Email"> Email Me
+    <img width="22" src="email.png" alt="Email"> Email Me
   </a>
 </h5>
 
