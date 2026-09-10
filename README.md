@@ -3,7 +3,7 @@ Hello! My name's Ishwara (or Ish for short), and I'm a high-speed problem solver
 
 <h5 align="center">
   <a href="https://www.linkedin.com/in/ishwara-vasista-2bb077421" title="LinkedIn Profile">
-    <img width="22" src="linkedin_image.png" alt="LinkedIn"> LinkedIn
+    <img width="22" src="linkedin.svg" alt="LinkedIn"> LinkedIn
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ishwara.vasista@gmail.com" title="Email Ishwara Vasista">
