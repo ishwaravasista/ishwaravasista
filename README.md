@@ -2,32 +2,13 @@
 Hello! My name's Ishwara (or Ish for short), and I'm a high-speed problem solver, data nerd, and Team USA Speedcuber! I'm currently studying Data Science at UC San Diego. In my previous work I have specialized in combining rigorous statistical analysis with machine learning to build trustworthy AI and audit complex systems. When my head isn't in the data, you can definitely find me solving Rubik's cubes at World Championship speeds or mentoring the next generation of cubers and coders alike.
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ishwara-vasista-2bb077421">
-    <img
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
-      width="42"
-      alt="LinkedIn"
-      valign="middle"
-    />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ishwara-vasista-2bb077421">
-    <strong>LinkedIn</strong>
-  </a>
+<div align="center">
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishwara-vasista-2bb077421)
+[![Email](https://img.shields.io/badge/Email_Me-555555?style=for-the-badge)](mailto:ishwara.vasista@gmail.com)
 
-  <a href="mailto:ishwara.vasista@gmail.com">
-    <span>✉️</span>
-  </a>
-  &nbsp;
-  <a href="mailto:ishwara.vasista@gmail.com">
-    <strong>Email Me</strong>
-  </a>
-</p>
+</div>
 
-<br>
 
 
 ## 🧠 Programming Languages
