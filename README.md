@@ -37,10 +37,10 @@ Hello! My name's Ishwara (or Ish for short), and I'm a high-speed problem solver
 
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/JUPYTER_NOTEBOOK-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![AstroImageJ](https://img.shields.io/badge/ASTROIMAGEJ-1F6FEB?style=for-the-badge&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/JUPYTER_NOTEBOOK-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/OBSIDIAN-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LATEX-008080?style=for-the-badge&logo=latex&logoColor=white)
