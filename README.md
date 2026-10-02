@@ -13,7 +13,7 @@ Hello! My name's Ishwara (or Ish for short), and I'm a high-speed problem solver
 
 
 
-## 🧠 Programming Languages
+## Programming Languages
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -22,7 +22,7 @@ Hello! My name's Ishwara (or Ish for short), and I'm a high-speed problem solver
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## ⚙️ Frameworks & Platforms
+## Frameworks & Platforms
 
 ![AutoGen](https://img.shields.io/badge/AUTOGEN-5E5CE6?style=for-the-badge&logo=microsoft&logoColor=white)
 ![React Native](https://img.shields.io/badge/REACT_NATIVE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -33,7 +33,7 @@ Hello! My name's Ishwara (or Ish for short), and I'm a high-speed problem solver
 ![Pop!_OS](https://img.shields.io/badge/POP!__OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/LINUX_MINT-86BE43?style=for-the-badge&logo=linuxmint&logoColor=white)
 
-## 🛠️ Libraries & Developer Tools
+## Libraries & Developer Tools
 
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
