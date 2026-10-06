@@ -33,11 +33,15 @@ Hello! My name's Ishwara (or Ish for short), and I'm a high-speed problem solver
 ![Pop!_OS](https://img.shields.io/badge/POP!__OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/LINUX_MINT-86BE43?style=for-the-badge&logo=linuxmint&logoColor=white)
 
+
 ## Libraries & Developer Tools
 
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/GOOGLE_CLOUD_PLATFORM-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![AstroImageJ](https://img.shields.io/badge/ASTROIMAGEJ-1F6FEB?style=for-the-badge&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
